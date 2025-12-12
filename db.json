@@ -18,8 +18,8 @@
   ],
 
   "assistencias": [
-    { "id": 1, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 1, "minuto": "5" "idCompeticao": 1, "nomeCompeticao": "copa IF" },
-    { "id": 2, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 2, "minuto": "55" "idCompeticao": 1, "nomeCompeticao": "copa IF" },
+    { "id": 1, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 1, "minuto": "5", "idCompeticao": 1, "nomeCompeticao": "copa IF" },
+    { "id": 2, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 2, "minuto": "55", "idCompeticao": 1, "nomeCompeticao": "copa IF" },
     { "id": 3, "idJogador": 3, "nomeJogador": "jogador03", "idPartida": 3, "minuto": "70", "idCompeticao": 2, "nomeCompeticao": "copa CASI"  }
   ]
 }
