@@ -6,20 +6,20 @@
   ],
 
   "cartoes": [
-    { "id": 1, "idPartida": 1, "idJogador": 1, "nomeJogador": "jogador01", "minuto": "10", "idCompeticao": 1, "nomeCompeticao": "copa IF"},
-    { "id": 2, "idPartida": 2, "idJogador": 2, "nomeJogador": "jogador02", "minuto": "25", "idCompeticao": 1, "nomeCompeticao": "copa IF" },
-    { "id": 3, "idPartida": 3, "idJogador": 3, "nomeJogador": "jogador03", "minuto": "40", "idCompeticao": 2, "nomeCompeticao": "copa CASI"}
+    { "id": 1, "idPartida": 1, "idJogador": 1, "nomeJogador": "jogador01", "minuto": "10", "idCompeticao": 1, "nomeCompeticao": "copaIF"},
+    { "id": 2, "idPartida": 2, "idJogador": 2, "nomeJogador": "jogador02", "minuto": "25", "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 3, "idPartida": 3, "idJogador": 3, "nomeJogador": "jogador03", "minuto": "40", "idCompeticao": 2, "nomeCompeticao": "copaCASI"}
   ],
 
   "gols": [
-    { "id": 1, "idPartida": 1, "idJogador": 1, "nomeJogador": "jogador01", "minuto": "5", "idCompeticao": 1, "nomeCompeticao": "copa IF" },
-    { "id": 2, "idPartida": 2, "idJogador": 2, "nomeJogador": "jogador02", "minuto": "55", "idCompeticao": 1, "nomeCompeticao": "copa IF" },
-    { "id": 3, "idPartida": 3, "idJogador": 3, "nomeJogador": "jogador03", "minuto": "70", "idCompeticao": 2, "nomeCompeticao": "copa CASI"}
+    { "id": 1, "idPartida": 1, "idJogador": 1, "nomeJogador": "jogador01", "minuto": "5", "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 2, "idPartida": 2, "idJogador": 2, "nomeJogador": "jogador02", "minuto": "55", "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 3, "idPartida": 3, "idJogador": 3, "nomeJogador": "jogador03", "minuto": "70", "idCompeticao": 2, "nomeCompeticao": "copaCASI"}
   ],
 
   "assistencias": [
-    { "id": 1, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 1, "minuto": "5", "idCompeticao": 1, "nomeCompeticao": "copa IF" },
-    { "id": 2, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 2, "minuto": "55", "idCompeticao": 1, "nomeCompeticao": "copa IF" },
-    { "id": 3, "idJogador": 3, "nomeJogador": "jogador03", "idPartida": 3, "minuto": "70", "idCompeticao": 2, "nomeCompeticao": "copa CASI"}
+    { "id": 1, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 1, "minuto": "5", "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 2, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 2, "minuto": "55", "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 3, "idJogador": 3, "nomeJogador": "jogador03", "idPartida": 3, "minuto": "70", "idCompeticao": 2, "nomeCompeticao": "copaCASI"}
   ]
 }
