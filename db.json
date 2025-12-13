@@ -26,6 +26,6 @@
     { "id": 6, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 3, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
     { "id": 7, "idJogador": 3, "nomeJogador": "jogador03", "idPartida": 3, "idCompeticao": 2, "nomeCompeticao": "copaCASI" },
     { "id": 8, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 3, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
-    { "id": 9, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 1, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 9, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 1, "idCompeticao": 1, "nomeCompeticao": "copaIF" }
   ]
 }
