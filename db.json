@@ -18,8 +18,14 @@
   ],
 
   "assistencias": [
-    { "id": 1, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 1, "minuto": "5", "idCompeticao": 1, "nomeCompeticao": "copaIF" },
-    { "id": 2, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 2, "minuto": "55", "idCompeticao": 1, "nomeCompeticao": "copaIF" },
-    { "id": 3, "idJogador": 3, "nomeJogador": "jogador03", "idPartida": 3, "minuto": "70", "idCompeticao": 2, "nomeCompeticao": "copaCASI"}
+    { "id": 1, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 1, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 2, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 2, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 3, "idJogador": 3, "nomeJogador": "jogador03", "idPartida": 1, "idCompeticao": 2, "nomeCompeticao": "copaCASI"},
+    { "id": 4, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 2, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 5, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 2, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 6, "idJogador": 1, "nomeJogador": "jogador01", "idPartida": 3, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 7, "idJogador": 3, "nomeJogador": "jogador03", "idPartida": 3, "idCompeticao": 2, "nomeCompeticao": "copaCASI" },
+    { "id": 8, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 3, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
+    { "id": 9, "idJogador": 2, "nomeJogador": "jogador02", "idPartida": 1, "idCompeticao": 1, "nomeCompeticao": "copaIF" },
   ]
 }
